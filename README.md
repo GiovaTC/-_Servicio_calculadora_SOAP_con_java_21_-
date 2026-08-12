@@ -5,6 +5,8 @@ Servicio Calculadora SOAP con Java 21:
 
 <img width="2551" height="1079" alt="image" src="https://github.com/user-attachments/assets/1c01878f-0c1c-4cf6-a23d-11355a5aa934" />    
 
+<img width="2551" height="1079" alt="image" src="https://github.com/user-attachments/assets/87f86fc9-5eff-46df-a819-98d21852a224" />    
+
 ```
 Proyecto completo y sencillo de SOAP Web Service con Java 21 + IntelliJ IDEA + Maven, pensado específicamente para levantarlo localmente y probarlo con SoapUI.
 
