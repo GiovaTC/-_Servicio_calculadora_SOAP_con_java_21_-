@@ -3,6 +3,8 @@ Servicio Calculadora SOAP con Java 21:
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9943c776-4f2b-430c-b4f2-0855c75a2f8e" />
 
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/cf84b623-1598-41a2-8eba-69dcc0f92fde" />            
+
 <img width="2551" height="1079" alt="image" src="https://github.com/user-attachments/assets/1c01878f-0c1c-4cf6-a23d-11355a5aa934" />    
 
 <img width="2551" height="1079" alt="image" src="https://github.com/user-attachments/assets/87f86fc9-5eff-46df-a819-98d21852a224" />    
