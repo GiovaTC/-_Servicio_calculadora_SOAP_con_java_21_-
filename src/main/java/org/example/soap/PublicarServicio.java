@@ -23,5 +23,5 @@ public class PublicarServicio {
         System.out.println(direccion + "?wsdl");
         System.out.println("------------------------------------------");
         System.out.println("Presiona CTRL + C para detener el servicio.");
-    }   
+    }
 }
