@@ -16,5 +16,5 @@ public interface Calculadora {
     double multiplicar(double numero1, double numero2);
 
     @WebMethod
-    double dividir(double numero1, double numero2);  
+    double dividir(double numero1, double numero2);
 }
